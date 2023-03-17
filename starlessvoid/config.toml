@@ -1,0 +1,8 @@
+baseURL = 'https://ghostsdontsleep.github.io/'
+languageCode = 'en-us'
+title = "Starless Void - Adnane's boring thoughts"
+theme = "coyote"
+[outputs]
+  home = ['HTML', 'JSON']
+
+theme = "coyote"
