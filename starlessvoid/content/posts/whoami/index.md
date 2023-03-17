@@ -13,7 +13,7 @@ I know this is the internet, and one should be cautious about what information h
 
 A logical rule of thumb is that everyone should protect himself here or at least not share intimate stuffs non-anonymously. But what if you just do it, just share it, break the rules, be wild, throw your thoughts into this big ocean we call the "Internet."
 
-I came to the realization that a better place for my ideas and thoughts is here on the internet instead of my head. where they can freely be seen, liked, disliked by everyone. It's a unbelievable way to express yourself to the world.
+I came to the realization that a better place for my ideas and thoughts is here on the internet instead of my head. Where they can be seen, liked and disliked by everyone, it's an unbelievable way to express yourself to the world.
 
 But what does this make me ?...A social media influencer? An attention seeker? I don't know, and I don't see why I should have a reason for doing anything honestly. As long as it's moral then just do it and enjoy the process; it's what we call _Life_.
 
