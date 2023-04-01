@@ -2,3 +2,4 @@
 	path = starlessvoid/public
 	url = https://github.com/ghostsdontsleep/ghostsdontsleep.github.io.git
 	branch = main
+	ignore = dirty
